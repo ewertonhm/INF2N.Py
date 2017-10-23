@@ -35,23 +35,31 @@ informe quantas camisetas de cada tamanho P, M, G e GG.
 
 Sugestão: utilize os comandos repita..ate ou enquanto..faca dependendo da necessidade mostrada
 em cada exercício.
+
 16. Elabore um algoritmo para somar os números recebidos. O algoritmo encerra quando digitado o
 número zero.
+
 17. Construa um algoritmo que leia vários números e mostre quantos números foram lidos. O
 algoritmo encerra quando digitado o número zero.
+
 18. Faça um algoritmo que receba vários números e mostre a média dos números recebidos. O final é
 conhecido pelo número zero.
+
 19. Escreva um algoritmo que receba vários números, calcule e informe a média, a soma e a
 quantidade de números recebidos. O algoritmo encerra quando digitado o número zero.
+
 20. Faça um algoritmo que receba a sigla da cidade de origem de um grupo de pessoas, ao final
 informe quantas foram digitadas das cidades do Rio de Janeiro, Belo Horizonte e Santa Catarina
 (separadamente). O algoritmo encerra quando digitado “fim”.
+
 21. Elabore um algoritmo que recebe o sexo dos alunos de um determinado colégio e informe o
 número de alunas e alunos separados e o número de digitações inválidas. O algoritmo encerra
 quando digitado “fim”.
+
 22. Construa um algoritmo que receba o estado civil (c para casado, s para solteiro e v para viúvo) de
 um grupo de pessoas, calcule e informe a quantidade de solteiros, casados, viúvos, o número de
 digitações válidas e inválidas. O algoritmo encerra quando digitado “fim”.
+
 23. Foi feita uma pesquisa entre os habitantes de uma região. Foi coletado o salário de cada
 habitante. Calcule e informe:
 a) a média de salário:
